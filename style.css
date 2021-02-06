@@ -29,18 +29,48 @@
 	margin-bottom: 30px;
 	padding-top: 30px;
 }
-.text {
+.textl {
 	font-size: 30px;
 	color: #E6E6E6;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
-}
-.box {
 	position: absolute;
 	top: 420px;
 	left: 128px;
 	width: 339px;
-	height: 147px;
+	z-index: 2;
+}
+.textn {
+	font-size: 30px;
+	color: #E6E6E6;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	position: absolute;
+	top: 450px;
+	left: 128px;
+	width: 339px;
+	z-index: 2;
+}
+.textm {
+	font-size: 30px;
+	color: #E6E6E6;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	position: absolute;
+	top: 480px;
+	left: 128px;
+	width: 339px;
+	z-index: 2;
+}
+.texto {
+	font-size: 30px;
+	color: #E6E6E6;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	position: absolute;
+	top: 510px;
+	left: 128px;
+	width: 339px;
 	z-index: 2;
 }
 .conteiner2 {
@@ -202,7 +232,7 @@
 	flex-flow: row wrap;
 	justify-content: space-around;
 }
-.text3 {
+.text5 {
 	font-size: 24px;
 	font-family: 'Roboto', sans-serif;
 	color: #000000;
